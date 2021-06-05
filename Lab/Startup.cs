@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using Lab_1.Context;
 using Microsoft.EntityFrameworkCore;
 
-namespace Lab
+namespace Lab1_2
 {
     public class Startup
     {

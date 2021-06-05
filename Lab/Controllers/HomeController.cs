@@ -6,7 +6,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Lab.Controllers
+namespace Lab1_2.Controllers
 {
     public class HomeController : Controller
     {
